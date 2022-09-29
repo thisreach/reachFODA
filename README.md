@@ -1,5 +1,7 @@
 ---
 
+Olá, me chamo Filipe Gomes e estou em busca de melhorar meu conhecimento como programador.
+
 <div align="center">
   <a href="https://github.com/reachFODA?tab=repositories">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reachFODA&layout=compact&langs_count=7&theme=react&hide_border=true&hide=makefile,handlebars,html"/>
