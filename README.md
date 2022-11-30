@@ -5,10 +5,12 @@
   - Atualmente eu programo em JavaScript, TypeScript e Kotlin
 
 <div align="center">
-  <a>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=reachFODA&show_icons=true&theme=radical"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reachFODA&layout=compact)](https://github.com/reachFODA/github-readme-stats"/>
-  </a>
+<a href="https://github.com/reachFODA/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reachFODA&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/reachFODA/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reachFODA&repo=convoychat" />
+</a>
 </div>
 
 ---
